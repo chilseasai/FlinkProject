@@ -12,6 +12,7 @@ import org.apache.flink.util.Collector;
  * SocketWindowWordCount
  * Reference: https://ci.apache.org/projects/flink/flink-docs-release-1.10/getting-started/tutorials/local_setup.html
  *
+ * Set input parameter "--port 9000" in "Edit Configuration".
  * Run "nc -l 9000" before run this class below.
  * @author Chilseasai@
  */
